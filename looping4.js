@@ -1,6 +1,4 @@
-// Soal No. 4
-// Tampilkan sebuah Konfirmasi Pop Up kepada user menggunakan confirm();!
-// Jawaban
+// Jawaban No. 4
 let ulang = confirm("Apakah anda mau mengulang?");
 let hitung = 0;
 
